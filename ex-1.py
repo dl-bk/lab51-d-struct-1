@@ -110,3 +110,5 @@ while True:
             my_lst.remove(elem)
         case 5:
             my_lst.show_list()
+        case _:
+            print("Incorrect action")
